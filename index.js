@@ -13,4 +13,4 @@ var getChristmasCountdownTime = setInterval(function() {
     document.querySelector(".hours").innerHTML = hours + "h";
     document.querySelector(".minutes").innerHTML = minutes + "m";
     document.querySelector(".seconds").innerHTML = seconds + "s";
-}, 1000)
+}, 1000);
